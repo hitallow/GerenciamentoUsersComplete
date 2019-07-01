@@ -1,0 +1,29 @@
+{
+  "name": "basicnojejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitallow/basicNodeJS.git"
+  },
+  "keywords": [
+    "nodeJS"
+  ],
+  "author": "Hitallo William",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitallow/basicNodeJS/issues"
+  },
+  "homepage": "https://github.com/hitallow/basicNodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "nedb": "^1.8.0"
+  }
+}
